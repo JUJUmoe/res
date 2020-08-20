@@ -1,6 +1,6 @@
 @import url(fontawesome-all.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300");
-
+#表格加上框线
     .markdown-body hr:after{
 	    clear:both;content:"";display:table;
     }
@@ -16,6 +16,8 @@
     .markdown-body table tr{
 	    background-color:#dcdcdc;border-top:1px solid #c6cbd1
     }
+
+
 
 	body {
 		-webkit-text-size-adjust: none;
